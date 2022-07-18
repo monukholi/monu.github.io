@@ -1,0 +1,50 @@
+ *{
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer{
+    padding: 40px 0;
+    background-color: #fff;
+}
+.footer .social{
+    text-align: center;
+    padding-bottom: 25px;
+    color: #4b4c4d;
+}
+.footer .social a{
+    font-size: 30px;
+    color: inherit;
+   
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 8px;
+    opacity: 0.75;
+}
+.footer .social a:hover{
+    opacity: 0.9;
+
+
+}
+.footer ul{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 0;
+    text-align: center;
+}
+.footer ul a{
+    color: inherit;
+    text-decoration: none;
+    opacity: 0.8;
+}
+.boss{
+    padding-top: 4px;
+    text-align: center;
+
+}
